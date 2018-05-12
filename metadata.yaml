@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '33138'
     url: http://www.gutenberg.org/2009/agents/33138
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35909#Indian-Legends-Retold
 gutenberg_issued: '2011-04-19'
 gutenberg_type: Text
 identifiers:
