@@ -1,0 +1,36 @@
+_repo: Indian-Legends-Retold_35909
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Varian, George
+    alias: Varian, George Edmund
+    birthdate: 1865
+    deathdate: 1923
+    gutenberg_agent_id: '31657'
+    url: http://www.gutenberg.org/2009/agents/31657
+covers:
+- cover_type: archival
+  image_path: 35909-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Eastman, Elaine Goodale
+    alias: Goodale, Elaine
+    birthdate: 1863
+    deathdate: 1953
+    gutenberg_agent_id: '33138'
+    url: http://www.gutenberg.org/2009/agents/33138
+description: ''
+gutenberg_issued: '2011-04-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35909'
+  lccn: '19015084'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E011'
+- !lcsh 'Indians of North America -- Folklore'
+title: Indian Legends Retold
+url: http://www.gutenberg.org/ebooks/35909
